@@ -1,8 +1,13 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Rahat! 👋
 
 ## About Me
 
-I'm a passionate Front-End Developer with experience in building web applications using a variety of technologies. I enjoy creating user-friendly, responsive, and visually appealing interfaces. Here are the technologies I work with:
+I'm a passionate Front-End Developer with experience in building web applications using a variety of technologies. I enjoy creating user-friendly, responsive, and visually appealing interfaces.
+
+
+## GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ## Technologies
 
@@ -27,18 +32,13 @@ I'm a passionate Front-End Developer with experience in building web application
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
-## GitHub Stats
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-
 ## Contact Me
 
 Feel free to reach out to me:
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](link-to-linkedin)
-- **Twitter**: [Your Twitter Profile](link-to-twitter)
+- **Email**: mdrahat4595001@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/rahatthewebdev/]
+- **Facebook**: []
 
 Thanks for stopping by!
 
