@@ -41,20 +41,20 @@ Feel free to reach out to me:
 
 - 🔭 I’m currently working on:
 
-Enhancing my interpersonal skills
-Building user-friendly front-end applications
+ Enhancing my interpersonal skills
+ Building user-friendly front-end applications
 - 👯 I’m looking to collaborate on:
 
-Open source projects, especially those focused on web development
+ Open source projects, especially those focused on web development
 - 🤔 I’m looking for help with:
 
-Improving my knowledge in cutting-edge front-end frameworks and tools
+ Improving my knowledge in cutting-edge front-end frameworks and tools
 - 💬 Ask me about:
 
-My developer journey
-Front-end technologies (HTML, CSS, JavaScript, React)
-My experiences with web development projects
+ My developer journey
+ Front-end technologies (HTML, CSS, JavaScript, React)
+ My experiences with web development projects
 - ⚡ Fun fact:
 
-I can speak 3 languages fluently, which helps me communicate with a diverse range of developers and clients
+ I can speak 3 languages fluently, which helps me communicate with a diverse range of developers and clients
 
