@@ -39,9 +39,22 @@ Feel free to reach out to me:
 
 ## Current Overview
 
-- 🔭 I’m currently working on - My interpersonal skills  
-- 👯 I’m looking to collaborate on - Open source projects
-- 🤔 I’m looking for help with - 
-- 💬 Ask me about - My developer journey or about myself
-- ⚡ Fun fact - I can speak 3 languages
+- 🔭 I’m currently working on:
+
+Enhancing my interpersonal skills
+Building user-friendly front-end applications
+- 👯 I’m looking to collaborate on:
+
+Open source projects, especially those focused on web development
+- 🤔 I’m looking for help with:
+
+Improving my knowledge in cutting-edge front-end frameworks and tools
+- 💬 Ask me about:
+
+My developer journey
+Front-end technologies (HTML, CSS, JavaScript, React)
+My experiences with web development projects
+- ⚡ Fun fact:
+
+I can speak 3 languages fluently, which helps me communicate with a diverse range of developers and clients
 
