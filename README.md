@@ -34,8 +34,8 @@
 Feel free to reach out to me:
 
 - **Email**: mdrahat4595001@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/rahatthewebdev/]
-- **Facebook**: [(https://www.facebook.com/profile.php?id=100039268932982)]
+- **LinkedIn**: [Click Here](https://www.linkedin.com/in/rahatthewebdev/)
+- **Facebook**: [Click Here](https://www.facebook.com/profile.php?id=100039268932982)
 
 Thanks for stopping by!
 
