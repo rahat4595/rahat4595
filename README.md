@@ -1,5 +1,9 @@
 # Hi there, I'm Rahat! 👋
 
+<a href="https://www.linkedin.com/in/rahatthewebdev/">
+<img src="./images/icons/github Banner.png" />
+</a>
+
 # About Me
 I'm a passionate Front-End Developer with experience in building web applications using a variety of technologies. I enjoy creating user-friendly, responsive, and visually appealing interfaces.
 
@@ -22,7 +26,7 @@ I'm a passionate Front-End Developer with experience in building web application
 <img src="./images/icons/react.png"/>
 </p>
 <p align="center">
-<img src="./images/icons/react.png"/>
+<img src="./images/icons/firebase.png"/>
 <img src="./images/icons/node.png"/>
 <img src="./images/icons/express.png"/>
 <img src="./images/icons/mongo.png"/>
