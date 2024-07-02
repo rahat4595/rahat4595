@@ -1,11 +1,18 @@
 # Hi there, I'm Rahat! 👋
 
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=rahat4595&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 ## GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
-## :computer: Technologies that I use
+##Technologies that I use
 
 <br>
 <p align="center">
