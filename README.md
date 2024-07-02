@@ -6,7 +6,7 @@
 I'm a passionate Front-End Developer with experience in building web applications using a variety of technologies. I enjoy creating user-friendly, responsive, and visually appealing interfaces.
 
 
-## :chart_with_upwards_trend: Current Stats
+## Current Stats
 
 <br />
 <p align="center">
