@@ -1,5 +1,3 @@
-# Hi there, I'm Rahat! 👋
-
 <a href="https://www.linkedin.com/in/rahatthewebdev/">
 <img src="./images/icons/github Banner.png" />
 </a>
