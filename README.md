@@ -40,7 +40,7 @@ Feel free to reach out to me:
 
 - **Email**: mdrahat4595001@gmail.com
 - **LinkedIn**: [Click Here](https://www.linkedin.com/in/rahatthewebdev/)
-- **Facebook**: [Click Here](https://www.facebook.com/profile.php?id=100039268932982)
+- **Facebook**: [Click Here](https://www.facebook.com/rahatSlasher)
 
 ## Current Overview
 
